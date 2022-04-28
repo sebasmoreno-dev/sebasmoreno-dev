@@ -4,7 +4,7 @@
 ## 👋 &nbsp;Hi there, I'm Sebastian 😁💻
 
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; I'm currently studying Business Administration and at the same time, I learn React to become a Fronted Developer.\
+🎓 &nbsp; I'm currently studying Business Administration and at the same time, I learn React to become a Frontend Developer.\
 🌱 &nbsp; I'm on track to learning more about Web development and English.\
 ✍️ &nbsp; In my free time, I like to exercise and read about technology...\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
